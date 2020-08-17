@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there, I am Sheng.X 👋 
 
 <!--
 **SHENG-X/SHENG-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+⚡  Here are the facts about me:
+
+   * Full Stack Software developer
+   
+   * Passionate about software development
+   
+   * Eager to learn new technologies
+   
+   * Fantastic team player
