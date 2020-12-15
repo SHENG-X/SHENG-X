@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Sheng.X and I am a Full Stack Software Developer. I am living in Canada and currently looking for a new position. You can find me on <a href="https://www.linkedin.com/in/sheng-x/"><img height="20" src="https://image.flaticon.com/icons/png/512/61/61109.png"></a>.
+My name is Sheng.X and I am a Full Stack Software Developer. I am living in Canada. You can find me on <a href="https://www.linkedin.com/in/sheng-x/"><img height="20" src="https://image.flaticon.com/icons/png/512/61/61109.png"></a>.
 
 ## <img src="https://www.iconfinder.com/data/icons/business-finance-54/512/50-512.png" width="30px" align="center" >Technologies &  Tools
 
