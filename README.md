@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Sheng.X and I am a Full Stack Software Developer. I am living in Canada. You can find me on <a href="https://www.linkedin.com/in/sheng-x/"><img height="20" src="https://image.flaticon.com/icons/png/512/61/61109.png"></a>.
+My name is Sheng.X and I am a Full Stack Software Developer. I am living in Canada. You can find me on <a href="https://www.linkedin.com/in/sheng-x/"><img height="20" src="https://simpleicons.org/icons/linkedin.svg"></a>.
 
-## <img src="https://www.iconfinder.com/data/icons/business-finance-54/512/50-512.png" width="30px" align="center" >Technologies &  Tools
+## <img src="https://cdn0.iconfinder.com/data/icons/mobile-basic-vol-1/32/Setting-128.png" width="30px" align="center" >Technologies &  Tools
 
  ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=2bbc8a)
  ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=2bbc8a)
